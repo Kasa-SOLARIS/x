@@ -2,7 +2,7 @@ const Discord = require('discord.js')
 const bot = new Discord.Client()
 let prefix = "?"
  
-bot.login('NjM0ODgxNTk0ODcxNTEzMTI5.XapEcQ.rt3mLGRDTbRZHXV61PrA9H6Yc0o')
+bot.login('NjM0ODgxNTk0ODcxNTEzMTI5.XapFWw.YMHdZ0SU7YvBeRt1HMeaLaLs_04')
  
 bot.on('guildMemberAdd', function (member) {
     let embed = new Discord.RichEmbed()
